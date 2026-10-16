@@ -1,8 +1,8 @@
-scikit-learn
-pandas
-numpy
-nltk
-datasets
-matplotlib
-joblib
-pytest
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy==2.2.6
+nltk==3.10.3
+datasets==5.1.0
+matplotlib==3.10.9
+joblib==1.6.0
+pytest==9.1.1
