@@ -4,6 +4,7 @@
 
 **Classify tweets as _negative_, _neutral_ or _positive_ using NLTK, TF-IDF and Logistic Regression.**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://nlp-sentiment-classifier-sumaid.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-F7931E?logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3.10-154f3c)
