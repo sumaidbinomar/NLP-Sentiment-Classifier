@@ -96,6 +96,12 @@ NLTK resources (`stopwords`, `wordnet`) are downloaded automatically on first ru
 
 ## 💻 Usage
 
+**Web demo** (Streamlit app with a live prediction card, metrics and confusion matrix)
+
+```bash
+streamlit run streamlit_app.py
+```
+
 **Classify text from the command line**
 
 ```bash
@@ -213,6 +219,7 @@ NLP-Sentiment-Classifier/
 ├── preprocessing.py        # cleaning, stop-word removal, lemmatization
 ├── train_model.py          # tuning, training, evaluation, saving
 ├── predict.py              # command-line prediction
+├── streamlit_app.py        # Streamlit web demo
 ├── requirements.txt        # pinned dependencies
 ├── data/                   # downloaded dataset (not tracked)
 ├── models/

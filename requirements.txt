@@ -6,3 +6,4 @@ datasets==5.1.0
 matplotlib==3.10.9
 joblib==1.6.0
 pytest==9.1.1
+streamlit==1.65.0
